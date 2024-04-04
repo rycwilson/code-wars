@@ -44,5 +44,10 @@ A collection of Code Wars exercises ("kata") I've completed, organized by diffic
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/4kyu/ranking_system.rb">ruby</a>
     </div>
+    <div>
+      <a href="https://www.codewars.com/kata/520446778469526ec0000001">Nested structure comparison</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./ruby/4kyu/nested_structure_comparison.rb">ruby</a>
+    </div>
   </ul>
 </details>
