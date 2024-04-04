@@ -1,4 +1,4 @@
-A collection of Code Wars exercises ("kata") I've completed, organized by difficulty and solution language.
+A collection of completed Code Wars exercises ("kata"), organized by difficulty and solution language.
 
 <details>
 <summary>5kyu</summary>
