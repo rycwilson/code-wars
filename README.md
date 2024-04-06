@@ -1,6 +1,6 @@
 A collection of completed Code Wars exercises ("kata"), organized by difficulty and solution language.
 
-<details>
+<details>****
 <summary>5kyu</summary>
   <ul>
     <div>
@@ -13,7 +13,7 @@ A collection of completed Code Wars exercises ("kata"), organized by difficulty 
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/primes_in_numbers.rb">ruby</a>
     </div>
-    <div>
+    <div>dfs
       <a href="https://www.codewars.com/kata/515bb423de843ea99400000a">Pagination helper</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/pagination_helper.rb">ruby</a>
@@ -32,6 +32,11 @@ A collection of completed Code Wars exercises ("kata"), organized by difficulty 
       <a href="https://www.codewars.com/kata/514a024011ea4fb54200004b">Extract domain from URL</a>
       &nbsp;&mdash;&nbsp;
       <a href="./python/5kyu/extract_domain_from_url.py">python</a>
+    </div>
+    <div>
+      <a href="https://www.codewars.com/kata/530e15517bc88ac656000716">Rot13 encoding</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./python/5kyu/rot_13.py">python</a>
     </div>
   </ul>
 </details>
