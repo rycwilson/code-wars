@@ -1,6 +1,6 @@
 A collection of completed Code Wars exercises ("kata"), organized by difficulty and solution language.
 
-<details>****
+<details>
 <summary>5kyu</summary>
   <ul>
     <div>
