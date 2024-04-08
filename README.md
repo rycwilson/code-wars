@@ -38,6 +38,11 @@ A collection of completed Code Wars exercises ("kata"), organized by difficulty 
       &nbsp;&mdash;&nbsp;
       <a href="./python/5kyu/rot_13.py">python</a>
     </div>
+    <div>
+      <a href="https://www.codewars.com/kata/54a91a4883a7de5d7800009c">Increment string</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./python/5kyu/increment_string.py">python</a>
+    </div>
   </ul>
 </details>
 
