@@ -13,7 +13,7 @@ A collection of completed Code Wars exercises ("kata"), organized by difficulty 
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/primes_in_numbers.rb">ruby</a>
     </div>
-    <div>dfs
+    <div>
       <a href="https://www.codewars.com/kata/515bb423de843ea99400000a">Pagination helper</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/pagination_helper.rb">ruby</a>
@@ -39,9 +39,9 @@ A collection of completed Code Wars exercises ("kata"), organized by difficulty 
       <a href="./python/5kyu/rot_13.py">python</a>
     </div>
     <div>
-      <a href="https://www.codewars.com/kata/54a91a4883a7de5d7800009c">Increment string</a>
+      <a href="https://www.codewars.com/kata/54a91a4883a7de5d7800009c">String incrementer</a>
       &nbsp;&mdash;&nbsp;
-      <a href="./python/5kyu/increment_string.py">python</a>
+      <a href="./python/5kyu/string_incrementer.py">python</a>
     </div>
   </ul>
 </details>
