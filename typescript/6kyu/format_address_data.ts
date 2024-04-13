@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/59d0ee709f0cbcf65400003b
+
 const stateLookup: Record<string, string> = {
   CA: 'California',
   MA: 'Massachusetts',
