@@ -66,6 +66,11 @@ A collection of completed Code Wars exercises ("kata"), organized by difficulty 
 <summary>4kyu</summary>
   <ul>
     <div>
+      <a href="https://www.codewars.com/kata/51c8e37cee245da6b40000bd">Strip comments</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./ruby/4kyu/strip_comments.rb">ruby</a>
+    </div>
+    <div>
       <a href="https://www.codewars.com/kata/51fda2d95d6efda45e00004e">Code Wars ranking system</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/4kyu/ranking_system.rb">ruby</a>
