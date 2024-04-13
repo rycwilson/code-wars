@@ -1,4 +1,4 @@
-A collection of completed Code Wars exercises ("kata"), organized by difficulty and solution language.
+A collection of completed Code Wars challenges ("kata"), organized by difficulty and solution language.
 
 [Me on Code Wars](https://www.codewars.com/users/rycwilson)
 
