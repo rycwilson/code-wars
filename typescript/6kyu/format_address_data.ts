@@ -47,7 +47,7 @@ export function byState(str: string): string {
   );
   return Object.entries(peopleByState)
     .filter(([_, statePeople]) => statePeople.length)
-    .sort(([stateA, _A], [stateB, _B]) => (
+    .sort(([stateA, _a], [stateB, _b]) => (
       stateA < stateB ? -1 : (stateB < stateA ? 1 : 0)
     ))
     .map(([state, statePeople], i) => (
