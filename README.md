@@ -2,7 +2,7 @@ A collection of completed Code Wars challenges ("kata"), organized by difficulty
 
 [Me on Code Wars](https://www.codewars.com/users/rycwilson)
 
-To keep things interesting, I've omitted low-dificulty kata, i.e. 8kyu, 7kyu, and most 6kyu challenges.
+To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have been omitted.
 
 <details>
 <summary>6kyu</summary>
