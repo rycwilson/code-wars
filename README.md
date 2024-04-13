@@ -1,6 +1,17 @@
 A collection of completed Code Wars exercises ("kata"), organized by difficulty and solution language.
 
 <details>
+<summary>6kyu</summary>
+  <ul>
+    <div>
+      <a href="https://www.codewars.com/kata/513e08acc600c94f01000001">Format string of addresses</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./typescript/6kyu/format_address_data.ts">typescript</a>
+    </div>
+  </ul>
+</details>
+
+<details>
 <summary>5kyu</summary>
   <ul>
     <div>
