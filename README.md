@@ -1,5 +1,9 @@
 A collection of completed Code Wars exercises ("kata"), organized by difficulty and solution language.
 
+[Me on Code Wars](https://www.codewars.com/users/rycwilson)
+
+To keep things interesting, I've omitted low-dificulty kata, i.e. 8kyu, 7ky, and most 6ky challenges.
+
 <details>
 <summary>6kyu</summary>
   <ul>
