@@ -24,7 +24,7 @@ A collection of completed Code Wars exercises ("kata"), organized by difficulty 
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/rgb_to_hex.rb">ruby</a>
     </div>
-    <div>****
+    <div>
       <a href="https://www.codewars.com/kata/54d512e62a5e54c96200019e">Primes in numbers</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/primes_in_numbers.rb">ruby</a>
