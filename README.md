@@ -29,7 +29,7 @@ To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have 
       <a href="./typescript/5kyu/rot13.ts">typescript</a>
     </div>
     <div>
-      <a href="https://www.codewars.com/kata/526d42b6526963598d0004db">Cipher helper</a>
+      <a href="https://www.codewars.com/kata/526d42b6526963598d0004db">Caesar Cipher Helper</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/cipher_helper.rb">ruby</a>
     </div>
