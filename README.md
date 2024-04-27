@@ -19,7 +19,7 @@ To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have 
 <summary>5kyu</summary>
   <ul>
     <div>
-      <a href="https://www.codewars.com/kata/55695bc4f75bbaea5100016b">Fibonacci Streaming</a>
+      <a href="https://www.codewars.com/kata/55695bc4f75bbaea5100016b">Fibonacci streaming</a>
       &nbsp;&mdash;&nbsp;
       <a href="./typescript/5kyu/fibonacci_streaming.ts">typescript</a>
     </div>
@@ -29,7 +29,7 @@ To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have 
       <a href="./typescript/5kyu/rot13.ts">typescript</a>
     </div>
     <div>
-      <a href="https://www.codewars.com/kata/526d42b6526963598d0004db">Caesar Cipher Helper</a>
+      <a href="https://www.codewars.com/kata/526d42b6526963598d0004db">Caesar cipher</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/cipher_helper.rb">ruby</a>
     </div>
@@ -44,12 +44,12 @@ To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have 
       <a href="./ruby/5kyu/primes_in_numbers.rb">ruby</a>
     </div>
     <div>
-      <a href="https://www.codewars.com/kata/515bb423de843ea99400000a">Pagination helper</a>
+      <a href="https://www.codewars.com/kata/515bb423de843ea99400000a">Pagination</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/pagination_helper.rb">ruby</a>
     </div>
     <div>
-      <a href="https://www.codewars.com/kata/5541f58a944b85ce6d00006a">Product of consecutive fibonacci numbers</a>
+      <a href="https://www.codewars.com/kata/5541f58a944b85ce6d00006a">Product of consecutive Fibonacci numbers</a>
       &nbsp;&mdash;&nbsp;
       <a href="./python/5kyu/product_fib_numbers.py">python</a>
     </div>
