@@ -19,6 +19,11 @@ To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have 
 <summary>5kyu</summary>
   <ul>
     <div>
+      <a href="https://www.codewars.com/kata/55695bc4f75bbaea5100016b">Fibonacci Streaming</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./typescript/5kyu/fibonacci_streaming.ts">typescript</a>
+    </div>
+    <div>
       <a href="https://www.codewars.com/kata/526d42b6526963598d0004db">Cipher helper</a>
       &nbsp;&mdash;&nbsp;
       <a href="./ruby/5kyu/cipher_helper.rb">ruby</a>
