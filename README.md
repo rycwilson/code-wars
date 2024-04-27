@@ -19,6 +19,11 @@ To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have 
 <summary>5kyu</summary>
   <ul>
     <div>
+      <a href="https://www.codewars.com/kata/51e04f6b544cf3f6550000c1">Beeramid</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./typescript/5kyu/beeramid.ts">typescript</a>
+    </div>
+    <div>
       <a href="https://www.codewars.com/kata/55695bc4f75bbaea5100016b">Fibonacci streaming</a>
       &nbsp;&mdash;&nbsp;
       <a href="./typescript/5kyu/fibonacci_streaming.ts">typescript</a>
