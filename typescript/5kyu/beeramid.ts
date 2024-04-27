@@ -2,7 +2,7 @@
 
 function beeramid(bonus: number, price: number): number {
   let level = 1;
-  let levelStart = 0;   // staring index for the current level
+  let levelStart = 0;   // starting index for the current level
   const levelLength = () => level ** 2;
   const beerCount = Math.floor(bonus / price);
   const beers = Array.from(
