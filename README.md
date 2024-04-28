@@ -19,6 +19,11 @@ To keep things interesting, low-dificulty kata (8kyu, 7kyu, and most 6kyu) have 
 <summary>5kyu</summary>
   <ul>
     <div>
+      <a href="https://www.codewars.com/kata/58298e19c983caf4ba000c8d">A man and his umbrellas</a>
+      &nbsp;&mdash;&nbsp;
+      <a href="./typescript/5kyu/umbrellas.ts">typescript</a>
+    </div>
+    <div>
       <a href="https://www.codewars.com/kata/51e04f6b544cf3f6550000c1">Beeramid</a>
       &nbsp;&mdash;&nbsp;
       <a href="./typescript/5kyu/beeramid.ts">typescript</a>
